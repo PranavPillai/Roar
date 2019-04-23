@@ -3,4 +3,8 @@ train_sentiment/
 preview/
 test_image_folders/
 train_image_folders/
+cats_test_image_folders/        
+cats_train_image_folders/
+dogs_test_image_folders/
+dogs_train_image_folders/
 .DS_Store

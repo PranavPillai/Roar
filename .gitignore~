@@ -1,0 +1,6 @@
+train_images/
+train_sentiment/
+preview/
+test_image_folders/
+train_image_folders/
+.DS_Store
